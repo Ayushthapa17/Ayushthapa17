@@ -12,8 +12,7 @@ Welcome to my GitHub profile — where code meets caffeine ☕ and ideas turn in
 - 🌱 I’m currently learning **Flutter, AI/ML & scalable backend systems**
 - 👯 I’m looking to collaborate on **open-source projects, startups & cool ideas**
 - 🤔 I’m looking for help with **becoming a better developer every single day**
-- 💬 Ask me about **Android, Firebase, Python, Web Dev, or why bugs only appear at night**
-- 📫 How to reach me: **Right here on GitHub (or through my commits 😄)**
+- 📫 How to reach me: **Right here on GitHub😄**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I don’t fear deadlines.I fear missing semicolons.**
 

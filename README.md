@@ -21,8 +21,8 @@ Welcome to my GitHub profile — where code meets caffeine ☕ and ideas turn in
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Kotlin, Python, JavaScript, SQL  
-- **Frameworks & Tools:** Android (Jetpack Compose), React / Next.js, Firebase, Git  
+- **Languages:** Java, Kotlin, Python, JavaScript, SQL  ,  Postgresql
+- **Frameworks & Tools:** Android (Jetpack Compose), React / Next.js, Firebase, Git , GitHub , Prisma
 - **AI/ML:** Image classification, dataset preparation, model training
 
 ---

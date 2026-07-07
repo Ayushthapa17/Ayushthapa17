@@ -4,114 +4,121 @@
 
 <div align="center">
 
-# Hi, I'm Ayush Thapa 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Thapa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-### Full-Stack & AI Developer | Turning Ideas Into Real, Working Apps ☕
+<a href="https://github.com/Ayushthapa17">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Real%2C+Working+Apps+%E2%98%95;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Always+Shipping+Something+New" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/-Let's%20Talk-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayushthapa17)
-[![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-2ea44f?style=flat-square)](https://github.com/Ayushthapa17)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushthapa17)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](https://github.com/Ayushthapa17)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&style=for-the-badge&color=blueviolet)](https://github.com/Ayushthapa17)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Currently building **Web & AI-based projects** — real ones, not tutorials
-- 🌱 Currently leveling up in **Flutter, AI/ML, and scalable backend systems**
-- 👯 Looking to collaborate on **open-source projects, startups, and bold ideas**
-- 🤔 Always looking to grow — one commit, one bug, one lesson at a time
-- 📫 Best way to reach me: **right here on GitHub**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I don't fear deadlines. I fear missing semicolons.**
+```yaml
+whoami: Ayush Thapa
+role: Full-Stack & AI Developer
+currently_building: Web & AI-based projects — real ones, not tutorials
+currently_learning: Flutter, AI/ML, scalable backend systems
+looking_to_collaborate: open-source projects, startups, bold ideas
+pronouns: He/Him
+fun_fact: "I don't fear deadlines. I fear missing semicolons."
+reach_me: right here on GitHub 📫
+```
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,mysql,postgres" />
+
+<br/><br/>
 
 **Frameworks & Tools**
-<br>
-![Android](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,firebase,prisma,git,github" />
+
+<br/><br/>
 
 **AI / ML**
-<br>
-![AI](https://img.shields.io/badge/Image%20Classification-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ML](https://img.shields.io/badge/Model%20Training-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,py" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Ayush's GitHub metrics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushthapa17&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushthapa17&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushthapa17&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushthapa17&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
-<!--
-  HOW THIS WORKS (and why it never breaks):
-  The image above is generated INSIDE your own repo by a GitHub Action
-  (see .github/workflows/metrics.yml), not fetched live from a shared
-  third-party server. That means no external rate limits, ever.
-
-  ONE-TIME SETUP (2 minutes):
-  1. In your Ayushthapa17/Ayushthapa17 repo, create the file
-     .github/workflows/metrics.yml (a ready-made version is included
-     alongside this README — just copy it into that exact path).
-  2. Go to your repo's Settings → Actions → General → Workflow permissions,
-     and select "Read and write permissions". Save.
-  3. Go to the Actions tab → select "Generate Profile Metrics" → 
-     "Run workflow" to trigger it the first time.
-  4. It will commit a "github-metrics.svg" file to your repo root — the
-     <img> tag above already points to it.
-  5. After that, it re-generates automatically every day on its own.
--->
-
-> 💡 **This version is self-contained** — the stats image is generated by a GitHub Action that runs inside your own repo, so it never depends on a third-party server and can't get rate-limited. Do the one-time setup above and it'll work permanently.
+> 💡 These cards refresh automatically on every page load — no setup needed, they're powered by public read-only APIs (`github-readme-stats`, `streak-stats`, `github-profile-trophy`). If any card ever gets rate-limited, redeploying your own instance of that project on Vercel fixes it permanently.
 
 ---
 
-## 🚀 What I Bring to the Table
+### 📈 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ayushthapa17/Ayushthapa17/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<!--
+  ONE-TIME SETUP for the snake animation above (2 minutes):
+  1. Create .github/workflows/snake.yml in this repo (template included alongside this README).
+  2. Settings → Actions → General → Workflow permissions → "Read and write permissions" → Save.
+  3. Actions tab → "Generate Snake" → Run workflow (first run only).
+  4. It commits the animated SVG to an `output` branch automatically, and
+     regenerates itself daily using your real contribution graph.
+-->
+
+---
+
+### 🚀 What I Bring to the Table
 
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-<img width="40" src="https://em-content.zobj.net/source/apple/391/soap_1f9fc.png" /><br><br>
-<b>Clean Code</b><br><br>
+🧼<br/><br/>
+<b>Clean Code</b><br/><br/>
 <sub>Readable, maintainable,<br>built to last</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://em-content.zobj.net/source/apple/391/puzzle-piece_1f9e9.png" /><br><br>
-<b>Problem Solver</b><br><br>
+🧩<br/><br/>
+<b>Problem Solver</b><br/><br/>
 <sub>Big messy problems, broken<br>into small shippable pieces</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://em-content.zobj.net/source/apple/391/high-voltage_26a1.png" /><br><br>
-<b>Fast Learner</b><br><br>
+⚡<br/><br/>
+<b>Fast Learner</b><br/><br/>
 <sub>New stack, new framework?<br>Give me a weekend</sub>
 </td>
 <td align="center" width="25%">
-<img width="40" src="https://em-content.zobj.net/source/apple/391/fire_1f525.png" /><br><br>
-<b>Genuinely Obsessed</b><br><br>
+🔥<br/><br/>
+<b>Genuinely Obsessed</b><br/><br/>
 <sub>I build for fun,<br>not just for the paycheck</sub>
 </td>
 </tr>
@@ -119,20 +126,25 @@
 
 ---
 
-## 📌 Currently Open To
+### 📌 Currently Open To
 
-- 💼 Internships
-- 👨‍💻 Junior Developer Roles
-- 🤝 Freelance & Collaboration Work
-- 🛠️ Real project experience
+<div align="center">
 
-> If you're hiring someone who codes with passion, learns fast, and ships features —
-> **let's talk.**
+[![Internships](https://img.shields.io/badge/-Internships-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
+[![Junior Dev Roles](https://img.shields.io/badge/-Junior%20Developer%20Roles-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
+[![Freelance](https://img.shields.io/badge/-Freelance%20%26%20Collab-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
+[![Real Projects](https://img.shields.io/badge/-Real%20Project%20Experience-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
+
+</div>
+
+> If you're hiring someone who codes with passion, learns fast, and ships features — **let's talk.**
 
 ---
 
 <div align="center">
 
 ⭐ **Thanks for stopping by!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>

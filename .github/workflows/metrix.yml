@@ -17,9 +17,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Ayushthapa17
           template: classic
-          base: header, activity, community, repositories
+
+          # Join date (shown via the "diff" section, e.g. "Member for X years")
+          base: header, diff
+
+          # Most used languages
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
+
+          # Contribution calendar (full year heatmap)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Commits per day / habits (busiest day of week, time of day)
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 100

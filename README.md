@@ -136,6 +136,23 @@ reach_me: right here on GitHub 📫
 
 ---
 
+### 🎮 I'm a Gamer Too — You Might Find Me On
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white)](https://store.steampowered.com)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&amp;logo=xbox&amp;logoColor=white)](https://www.xbox.com)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003087?style=for-the-badge&amp;logo=playstation&amp;logoColor=white)](https://www.playstation.com)
+[![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&amp;logo=epicgames&amp;logoColor=white)](https://store.epicgames.com)
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&amp;logo=nintendoswitch&amp;logoColor=white)](https://www.nintendo.com)
+[![Pokémon GO](https://img.shields.io/badge/Pok%C3%A9mon%20GO-FFCB05?style=for-the-badge&amp;logo=pokemon&amp;logoColor=222222)](https://pokemongolive.com)
+[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-C89B3C?style=for-the-badge&amp;logo=leagueoflegends&amp;logoColor=white)](https://www.leagueoflegends.com)
+
+</div>
+
+---
+
 <div align="center">
 
 ⭐ **Thanks for stopping by!** ⭐

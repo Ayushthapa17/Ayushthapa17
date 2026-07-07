@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Ayushthapa17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://aayush-thapa.com.np)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](https://github.com/Ayushthapa17)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&amp;style=for-the-badge&amp;color=blueviolet)](https://github.com/Ayushthapa17)
 

@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Thapa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Ayush%20Thapa&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20%2B%20AI%20Developer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <a href="https://github.com/Ayushthapa17">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Real%2C+Working+Apps+%E2%98%95;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=2EA44F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+Ideas+Into+Real%2C+Working+Apps+%E2%98%95;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Always+Shipping+Something+New" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushthapa17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Ayushthapa17)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](https://github.com/Ayushthapa17)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&style=for-the-badge&color=blueviolet)](https://github.com/Ayushthapa17)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&amp;style=for-the-badge&amp;color=blueviolet)](https://github.com/Ayushthapa17)
 
 </div>
 
@@ -63,16 +63,15 @@ reach_me: right here on GitHub 📫
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushthapa17&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushthapa17&layout=compact&theme=radical&hide_border=true" />
+<img src="./github-metrics.svg" alt="Ayush's GitHub metrics" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushthapa17&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Ayushthapa17&amp;theme=radical&amp;hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushthapa17&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushthapa17&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" />
 
 </div>
 
@@ -145,6 +144,6 @@ reach_me: right here on GitHub 📫
 
 ⭐ **Thanks for stopping by!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>

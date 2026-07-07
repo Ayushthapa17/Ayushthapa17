@@ -63,19 +63,15 @@ reach_me: right here on GitHub 📫
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Ayush's GitHub metrics" />
+<img src="./github-metrics.svg" alt="Ayush's GitHub metrics — join date, top languages, contribution calendar, commit habits" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ayushthapa17&amp;theme=radical&amp;hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushthapa17&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" />
+<img src="https://streak-stats.demolab.com/?user=Ayushthapa17&amp;theme=radical&amp;hide_border=true" alt="commit streak" />
 
 </div>
 
-> 💡 These cards refresh automatically on every page load — no setup needed, they're powered by public read-only APIs (`github-readme-stats`, `streak-stats`, `github-profile-trophy`). If any card ever gets rate-limited, redeploying your own instance of that project on Vercel fixes it permanently.
+> 💡 The metrics image above is generated inside this repo by a GitHub Action (no live third-party dependency), and covers: join date, most-used languages, contribution calendar, and daily commit habits. The streak card below it is the one live card kept, since commit streak needs a service that tracks it separately.
 
 ---
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Ayush%20Thapa&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20%2B%20AI%20Developer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Ayush%20Thapa&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20%2B%20AI%20Developer&amp%20%2BGamer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <a href="https://github.com/Ayushthapa17">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=2EA44F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+Ideas+Into+Real%2C+Working+Apps+%E2%98%95;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Always+Shipping+Something+New" alt="Typing SVG" />

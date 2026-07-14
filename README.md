@@ -1,77 +1,47 @@
-<!--
-**Ayushthapa17/Ayushthapa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div>
+    <img align=top src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-kid.gif" height="200"/>
+    <img align=right src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/sasuke-grown.gif" height="250"/>
+</div>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=600&pause=500&multiline=true&width=500&lines=Fetching+.+.+.;%2Fhome%2Fuser%2F.config%2Fgithub%2Fpersonal%2Fprojects%2FAyushthapa17%2F)](https://github.com/Ayushthapa17)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Ayush%20Thapa&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20%2B%20AI%20Developer&amp%20%2BGamer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
-
-<a href="https://github.com/Ayushthapa17">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=2EA44F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+Ideas+Into+Real%2C+Working+Apps+%E2%98%95;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Always+Shipping+Something+New" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://aayush-thapa.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayush-thapa.com.np)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](https://github.com/Ayushthapa17)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&amp;style=for-the-badge&amp;color=blueviolet)](https://github.com/Ayushthapa17)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&style=for-the-badge&color=blueviolet)](https://github.com/Ayushthapa17)
 
 ---
 
-### 🧑‍💻 About Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="10" height="10" /> `Stuffs I Use`
+<table>
+<tbody>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"></td>
+</tbody>
+</table>
 
-```yaml
-whoami: Ayush Thapa
-role: Full-Stack & AI Developer
-currently_building: Web & AI-based projects — real ones, not tutorials
-currently_learning: Flutter, AI/ML, scalable backend systems
-looking_to_collaborate: open-source projects, startups, bold ideas
-pronouns: He/Him
-fun_fact: "I don't fear deadlines. I fear missing semicolons."
-reach_me: right here on GitHub 📫
-```
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,mysql,postgres" />
-
-<br/><br/>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,firebase,prisma,git,github" />
-
-<br/><br/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,py" />
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="10" height="10" /> `Stuffs I'm Learning`
+<table>
+    <div>
+<img align=right src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-vs-sasuke-final-valley.gif" alt="Final Valley" width="200" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Ayush's GitHub metrics — join date, top languages, contribution calendar, commit habits" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ayushthapa17&amp;theme=radical&amp;hide_border=true" alt="commit streak" />
-
-</div>
-
-> 💡 The metrics image above is generated inside this repo by a GitHub Action (no live third-party dependency), and covers: join date, most-used languages, contribution calendar, and daily commit habits. The streak card below it is the one live card kept, since commit streak needs a service that tracks it separately.
+<tbody>
+    <td><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"></td>
+    <td><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Sleeping" width="55" height="55" /></td>
+</tbody>
+</table>
 
 ---
 
@@ -92,71 +62,10 @@ reach_me: right here on GitHub 📫
 
 ---
 
-### 🚀 What I Bring to the Table
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-🧼<br/><br/>
-<b>Clean Code</b><br/><br/>
-<sub>Readable, maintainable,<br>built to last</sub>
-</td>
-<td align="center" width="25%">
-🧩<br/><br/>
-<b>Problem Solver</b><br/><br/>
-<sub>Big messy problems, broken<br>into small shippable pieces</sub>
-</td>
-<td align="center" width="25%">
-⚡<br/><br/>
-<b>Fast Learner</b><br/><br/>
-<sub>New stack, new framework?<br>Give me a weekend</sub>
-</td>
-<td align="center" width="25%">
-🔥<br/><br/>
-<b>Genuinely Obsessed</b><br/><br/>
-<sub>I build for fun,<br>not just for the paycheck</sub>
-</td>
-</tr>
-</table>
-
----
-
-### 📌 Currently Open To
-
 <div align="center">
 
-[![Internships](https://img.shields.io/badge/-Internships-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
-[![Junior Dev Roles](https://img.shields.io/badge/-Junior%20Developer%20Roles-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
-[![Freelance](https://img.shields.io/badge/-Freelance%20%26%20Collab-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
-[![Real Projects](https://img.shields.io/badge/-Real%20Project%20Experience-1f6feb?style=flat-square)](https://github.com/Ayushthapa17)
+⭐ **Thanks for stopping by — believe it!** ⭐
 
-</div>
-
-> If you're hiring someone who codes with passion, learns fast, and ships features — **let's talk.**
-
----
-
-### 🎮 I'm a Gamer Too — You Might Find Me On
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white)](https://store.steampowered.com)
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&amp;logo=xbox&amp;logoColor=white)](https://www.xbox.com)
-[![PlayStation](https://img.shields.io/badge/PlayStation-003087?style=for-the-badge&amp;logo=playstation&amp;logoColor=white)](https://www.playstation.com)
-[![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&amp;logo=epicgames&amp;logoColor=white)](https://store.epicgames.com)
-[![Nintendo Switch](https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&amp;logo=nintendoswitch&amp;logoColor=white)](https://www.nintendo.com)
-[![Pokémon GO](https://img.shields.io/badge/Pok%C3%A9mon%20GO-FFCB05?style=for-the-badge&amp;logo=pokemon&amp;logoColor=222222)](https://pokemongolive.com)
-[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-C89B3C?style=for-the-badge&amp;logo=leagueoflegends&amp;logoColor=white)](https://www.leagueoflegends.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Thanks for stopping by!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>

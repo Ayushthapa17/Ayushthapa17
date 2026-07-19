@@ -1,7 +1,7 @@
-<div>
+<!-- <div>
     <img align=top src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-kid.gif" height="200"/>
     <img align=right src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/sasuke-grown.gif" height="250"/>
-</div>
+</div> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=600&pause=500&multiline=true&width=500&lines=Fetching+.+.+.;%2Fhome%2Fuser%2F.config%2Fgithub%2Fpersonal%2Fprojects%2FAyushthapa17%2F)](https://github.com/Ayushthapa17)
 

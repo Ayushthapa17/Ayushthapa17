@@ -55,7 +55,11 @@
 
 <div align="center">
 
-🗳️ **[Votely](https://votely-eosin.vercel.app/)** · 🏠 **[RentFlow](https://rentflow-astro.vercel.app/)** · 🦷 **[Zen Dental Clinic](https://zen-dental-clinic.vercel.app/)** · 🌱 **[Pot Plant](https://pot-plant.vercel.app/)** · 🖼️ **[Mission 02 Gallery](https://www.aayush-thapa.com.np/projects/Mission_02/gallery)**
+[![Votely](https://img.shields.io/badge/🗳️_Votely-000000?style=for-the-badge&logoColor=white)](https://votely-eosin.vercel.app/)
+[![RentFlow](https://img.shields.io/badge/🏠_RentFlow-000000?style=for-the-badge&logoColor=white)](https://rentflow-astro.vercel.app/)
+[![Zen Dental Clinic](https://img.shields.io/badge/🦷_Zen_Dental_Clinic-000000?style=for-the-badge&logoColor=white)](https://zen-dental-clinic.vercel.app/)
+[![Pot Plant](https://img.shields.io/badge/🌱_Pot_Plant-000000?style=for-the-badge&logoColor=white)](https://pot-plant.vercel.app/)
+[![Mission 02 Gallery](https://img.shields.io/badge/🖼️_Mission_02_Gallery-000000?style=for-the-badge&logoColor=white)](https://www.aayush-thapa.com.np/projects/Mission_02/gallery)
 
 </div>
 

@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;Solo+Full-Stack+%26+AI+Developer;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://github.com/Ayushthapa17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://github.com/Ayushthapa17)
 
 <br/>
 

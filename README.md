@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-vs-sasuke.gif" alt="Final Valley" width="750" />
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://github.com/Ayushthapa17)
 
@@ -8,20 +14,6 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](https://github.com/Ayushthapa17)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&style=for-the-badge&color=6C63FF)](https://github.com/Ayushthapa17)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/luffy-gear-third.gif" height="140"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/rasengan.gif" height="140"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/madara.gif" height="140"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/itachi.gif" height="140"/>
-
-  <sub><i>gear up, believe it, and never underestimate the Uchiha 😄</i></sub>
 </div>
 
 <br/>
@@ -47,14 +39,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,flutter,tensorflow,opencv" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-vs-sasuke.gif" alt="Final Valley" width="480" />
-  <br/>
-  <sub><i>the eternal rivalry — Naruto vs. Sasuke</i></sub>
 </div>
 
 <br/>

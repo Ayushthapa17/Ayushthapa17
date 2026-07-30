@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-kid.gif" height="180"/>
+<img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-kid.gif" height="180"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/sasuke-grown.gif" height="180"/> -->
+<img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/sasuke-grown.gif" height="180"/> 
 
 <br/>
 

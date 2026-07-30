@@ -2,19 +2,28 @@
   <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-vs-sasuke.gif" alt="Final Valley" width="750" />
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://github.com/Ayushthapa17)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://github.com/Ayushthapa17)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayush-thapa.com.np)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)](https://github.com/Ayushthapa17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayush-thapa.com.np)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/Ayushthapa17)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ayushthapa17&style=for-the-badge&color=6C63FF)](https://github.com/Ayushthapa17)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&width=900" />
+</div>
+
+## 👋 About Me
+
+- 🎓 Software developer based in **Nepal**, focused on full-stack web and mobile development
+- 🔭 Currently building **Votely**, **RentFlow**, and a handful of other side projects
+- 🌱 Deep-diving into **Flutter**, **TensorFlow**, and **OpenCV** right now
+- ⚡ Fun fact: my profile theme is powered by the Final Valley — Naruto vs. Sasuke, obviously
 
 <br/>
 
@@ -22,26 +31,41 @@
 
 <div align="center">
 
-**Languages & Core**
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,dart,cpp,c" />
 
-**Data & Backend**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,firebase" />
+<br/><br/>
 
-**Frontend & Tooling**
-<img src="https://skillicons.dev/icons?i=react,nextjs,git,github" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui,flutter,androidstudio" />
+
+<br/><br/>
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,prisma,firebase,redis" />
+
+<br/><br/>
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,figma,linux,vscode" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn" />
 
 </div>
 
 <br/>
-
-## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,tensorflow,opencv" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&width=900" />
 </div>
-
-<br/>
 
 ## 🚀 Live Projects
 
@@ -57,20 +81,18 @@
 
 <br/>
 
-## 📈 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ayushthapa17/Ayushthapa17/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&width=900" />
 </div>
 
-<!--
-  ONE-TIME SETUP for the snake animation above (2 minutes):
-  1. Create .github/workflows/snake.yml in this repo (template included alongside this README).
-  2. Settings → Actions → General → Workflow permissions → "Read and write permissions" → Save.
-  3. Actions tab → "Generate Snake" → Run workflow (first run only).
-  4. It commits the animated SVG to an `output` branch automatically, and
-     regenerates itself daily using your real contribution graph.
--->
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aayush-thapa.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushthapa17)
+
+</div>
 
 <br/>
 

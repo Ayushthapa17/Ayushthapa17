@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-kid.gif" height="180"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/sasuke-grown.gif" height="180"/>  -->
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://github.com/Ayushthapa17)
 
 <br/>
@@ -18,20 +12,31 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/luffy-gear-third.gif" height="140"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/rasengan.gif" height="140"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/madara.gif" height="140"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/itachi.gif" height="140"/>
+
+  <sub><i>gear up, believe it, and never underestimate the Uchiha 😄</i></sub>
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages & Core**
-
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,js" />
 
 **Data & Backend**
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,firebase" />
 
 **Frontend & Tooling**
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,git,github" />
 
 </div>
@@ -41,12 +46,15 @@
 ## 🌱 Currently Learning
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,tensorflow,opencv" />
 </div>
 
 <br/>
+
 <div align="center">
-<img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-vs-sasuke-final-valley.gif" alt="Final Valley" width="480" />
+  <img src="https://github.com/Ayushthapa17/Ayushthapa17/blob/main/src/gifs/naruto-vs-sasuke.gif" alt="Final Valley" width="480" />
+  <br/>
+  <sub><i>the eternal rivalry — Naruto vs. Sasuke</i></sub>
 </div>
 
 <br/>
@@ -68,7 +76,7 @@
 ## 📈 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ayushthapa17/Ayushthapa17/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ayushthapa17/Ayushthapa17/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 <!--

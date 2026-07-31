@@ -98,7 +98,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for stopping by — believe it! ⭐
+### ⭐ Thanks for stopping by! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 

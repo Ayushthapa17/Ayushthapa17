@@ -21,9 +21,10 @@
 ## 👋 About Me
 
 - 🎓 Software developer based in **Nepal**, focused on full-stack web and mobile development
-- 🔭 Currently building **Votely**, **RentFlow**, and a handful of other side projects
-- 🌱 Deep-diving into **Flutter**, **TensorFlow**, and **OpenCV** right now
-- ⚡ Fun fact: my profile theme is powered by the Final Valley — Naruto vs. Sasuke, obviously
+- 🍥 Anime fan through and through — Naruto vs. Sasuke at the Final Valley says it all
+- 🎮 When I'm not coding, I'm probably grinding Valorant, CS2, or getting lost in Cyberpunk 2077
+- ⚔️ Sekiro lives rent-free in my head — soulslikes hit different
+- 🌱 Currently vibing between ranked matches and open-world side quests
 
 <br/>
 
@@ -58,6 +59,35 @@
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&width=900" />
+</div>
+
+## 🎮 Games I Played
+
+<div align="center">
+
+![Valorant](https://img.shields.io/badge/🎯_Valorant-000000?style=for-the-badge&logoColor=white)
+![CS2](https://img.shields.io/badge/🔫_CS2-000000?style=for-the-badge&logoColor=white)
+![Apex Legends](https://img.shields.io/badge/🪂_Apex_Legends-000000?style=for-the-badge&logoColor=white)
+![PUBG](https://img.shields.io/badge/🎮_PUBG_Battlegrounds-000000?style=for-the-badge&logoColor=white)
+![GTA](https://img.shields.io/badge/🚗_GTA-000000?style=for-the-badge&logoColor=white)
+![Cyberpunk 2077](https://img.shields.io/badge/🤖_Cyberpunk_2077-000000?style=for-the-badge&logoColor=white)
+![Sekiro](https://img.shields.io/badge/⚔️_Sekiro-000000?style=for-the-badge&logoColor=white)
+![ARK Survival](https://img.shields.io/badge/🦖_ARK_Survival-000000?style=for-the-badge&logoColor=white)
+![Wuthering Waves](https://img.shields.io/badge/🌊_Wuthering_Waves-000000?style=for-the-badge&logoColor=white)
+![League of Legends](https://img.shields.io/badge/⚡_League_of_Legends-000000?style=for-the-badge&logoColor=white)
+![RDR](https://img.shields.io/badge/🤠_Red_Dead_Redemption-000000?style=for-the-badge&logoColor=white)
+![Minecraft](https://img.shields.io/badge/⛏️_Minecraft-000000?style=for-the-badge&logoColor=white)
+![PEAK](https://img.shields.io/badge/🏔️_PEAK-000000?style=for-the-badge&logoColor=white)
+![Rust](https://img.shields.io/badge/🪓_Rust-000000?style=for-the-badge&logoColor=white)
+![Project Zomboid](https://img.shields.io/badge/🧟_Project_Zomboid-000000?style=for-the-badge&logoColor=white)
+![REPO](https://img.shields.io/badge/📦_REPO-000000?style=for-the-badge&logoColor=white)
 
 </div>
 

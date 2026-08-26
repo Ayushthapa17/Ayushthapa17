@@ -22,7 +22,7 @@
 
 - 🎓 Software developer based in **Nepal**, focused on full-stack web and mobile development
 - 🍥 Anime fan through and through — Naruto vs. Sasuke at the Final Valley says it all
-- 🎮 When I'm not coding, I'm probably grinding Valorant, CS2, or getting lost in Cyberpunk 2077
+- 🎮 When I'm not coding, I'm probably grinding Valorant, Apex Legend, or getting lost in Cyberpunk 2077
 - ⚔️ Sekiro lives rent-free in my head — soulslikes hit different
 - 🌱 Currently vibing between ranked matches and open-world side quests
 

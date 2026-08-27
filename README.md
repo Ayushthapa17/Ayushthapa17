@@ -20,11 +20,9 @@
 
 ## 👋 About Me
 
-- 🎓 Software developer based in **Nepal**, focused on full-stack web and mobile development
-- 🍥 Anime fan through and through — Naruto vs. Sasuke at the Final Valley says it all
-- 🎮 When I'm not coding, I'm probably grinding Valorant, Apex Legend, or getting lost in Cyberpunk 2077
-- ⚔️ Sekiro lives rent-free in my head — soulslikes hit different
-- 🌱 Currently vibing between ranked matches and open-world side quests
+- I'm a software developer from Nepal, working across full-stack web and mobile development. I like building things end to end from backend logic to the UI people             actually touch.
+- Outside of code, I'm usually deep into a game or an anime binge. I like games that make you work for the payoff.
+- Currently open to internships, junior dev roles, and freelance work.
 
 <br/>
 
@@ -72,22 +70,22 @@
 
 <div align="center">
 
-![Valorant](https://img.shields.io/badge/🎯_Valorant-000000?style=for-the-badge&logoColor=white)
-![CS2](https://img.shields.io/badge/🔫_CS2-000000?style=for-the-badge&logoColor=white)
-![Apex Legends](https://img.shields.io/badge/🪂_Apex_Legends-000000?style=for-the-badge&logoColor=white)
-![PUBG](https://img.shields.io/badge/🎮_PUBG_Battlegrounds-000000?style=for-the-badge&logoColor=white)
-![GTA](https://img.shields.io/badge/🚗_GTA-000000?style=for-the-badge&logoColor=white)
-![Cyberpunk 2077](https://img.shields.io/badge/🤖_Cyberpunk_2077-000000?style=for-the-badge&logoColor=white)
-![Sekiro](https://img.shields.io/badge/⚔️_Sekiro-000000?style=for-the-badge&logoColor=white)
-![ARK Survival](https://img.shields.io/badge/🦖_ARK_Survival-000000?style=for-the-badge&logoColor=white)
-![Wuthering Waves](https://img.shields.io/badge/🌊_Wuthering_Waves-000000?style=for-the-badge&logoColor=white)
-![League of Legends](https://img.shields.io/badge/⚡_League_of_Legends-000000?style=for-the-badge&logoColor=white)
-![RDR](https://img.shields.io/badge/🤠_Red_Dead_Redemption-000000?style=for-the-badge&logoColor=white)
-![Minecraft](https://img.shields.io/badge/⛏️_Minecraft-000000?style=for-the-badge&logoColor=white)
-![PEAK](https://img.shields.io/badge/🏔️_PEAK-000000?style=for-the-badge&logoColor=white)
-![Rust](https://img.shields.io/badge/🪓_Rust-000000?style=for-the-badge&logoColor=white)
-![Project Zomboid](https://img.shields.io/badge/🧟_Project_Zomboid-000000?style=for-the-badge&logoColor=white)
-![REPO](https://img.shields.io/badge/📦_REPO-000000?style=for-the-badge&logoColor=white)
+![Valorant](https://img.shields.io/badge/🎯_Valorant-FF4655?style=for-the-badge&logoColor=white)
+![CS2](https://img.shields.io/badge/🔫_CS2-F5A623?style=for-the-badge&logoColor=black)
+![Apex Legends](https://img.shields.io/badge/🪂_Apex_Legends-DA292A?style=for-the-badge&logoColor=white)
+![PUBG](https://img.shields.io/badge/🎮_PUBG_Battlegrounds-F2A900?style=for-the-badge&logoColor=black)
+![GTA](https://img.shields.io/badge/🚗_GTA-7ED321?style=for-the-badge&logoColor=black)
+![Cyberpunk 2077](https://img.shields.io/badge/🤖_Cyberpunk_2077-FCEE0A?style=for-the-badge&logoColor=black)
+![Sekiro](https://img.shields.io/badge/⚔️_Sekiro-8B0000?style=for-the-badge&logoColor=white)
+![ARK Survival](https://img.shields.io/badge/🦖_ARK_Survival-3E9C6F?style=for-the-badge&logoColor=white)
+![Wuthering Waves](https://img.shields.io/badge/🌊_Wuthering_Waves-00A8E8?style=for-the-badge&logoColor=white)
+![League of Legends](https://img.shields.io/badge/⚡_League_of_Legends-C89B3C?style=for-the-badge&logoColor=black)
+![RDR](https://img.shields.io/badge/🤠_Red_Dead_Redemption-A0522D?style=for-the-badge&logoColor=white)
+![Minecraft](https://img.shields.io/badge/⛏️_Minecraft-62B47A?style=for-the-badge&logoColor=black)
+![PEAK](https://img.shields.io/badge/🏔️_PEAK-5DADE2?style=for-the-badge&logoColor=white)
+![Rust](https://img.shields.io/badge/🪓_Rust-CE422B?style=for-the-badge&logoColor=white)
+![Project Zomboid](https://img.shields.io/badge/🧟_Project_Zomboid-B22222?style=for-the-badge&logoColor=white)
+![REPO](https://img.shields.io/badge/📦_REPO-9B59B6?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -101,11 +99,11 @@
 
 <div align="center">
 
-[![Votely](https://img.shields.io/badge/🗳️_Votely-000000?style=for-the-badge&logoColor=white)](https://votely-eosin.vercel.app/)
-[![RentFlow](https://img.shields.io/badge/🏠_RentFlow-000000?style=for-the-badge&logoColor=white)](https://rentflow-astro.vercel.app/)
-[![Zen Dental Clinic](https://img.shields.io/badge/🦷_Zen_Dental_Clinic-000000?style=for-the-badge&logoColor=white)](https://zen-dental-clinic.vercel.app/)
-[![Pot Plant](https://img.shields.io/badge/🌱_Pot_Plant-000000?style=for-the-badge&logoColor=white)](https://pot-plant.vercel.app/)
-[![Mission 02 Gallery](https://img.shields.io/badge/🖼️_Mission_02_Gallery-000000?style=for-the-badge&logoColor=white)](https://www.aayush-thapa.com.np/projects/Mission_02/gallery)
+[![Votely](https://img.shields.io/badge/🗳️_Votely-4285F4?style=for-the-badge&logoColor=white)](https://votely-eosin.vercel.app/)
+[![RentFlow](https://img.shields.io/badge/🏠_RentFlow-FF7043?style=for-the-badge&logoColor=white)](https://rentflow-astro.vercel.app/)
+[![Zen Dental Clinic](https://img.shields.io/badge/🦷_Zen_Dental_Clinic-26A69A?style=for-the-badge&logoColor=white)](https://zen-dental-clinic.vercel.app/)
+[![Pot Plant](https://img.shields.io/badge/🌱_Pot_Plant-66BB6A?style=for-the-badge&logoColor=black)](https://pot-plant.vercel.app/)
+[![Mission 02 Gallery](https://img.shields.io/badge/🖼️_Mission_02_Gallery-8E44AD?style=for-the-badge&logoColor=white)](https://www.aayush-thapa.com.np/projects/Mission_02/gallery)
 
 </div>
 

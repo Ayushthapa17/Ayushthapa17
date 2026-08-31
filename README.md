@@ -66,7 +66,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&width=900" />
 </div>
 
-## 🎮 Games I Played
+## 🎮 Games I Play Currently!!
 
 <div align="center">
 
@@ -74,18 +74,6 @@
 ![CS2](https://img.shields.io/badge/🔫_CS2-F5A623?style=for-the-badge&logoColor=black)
 ![Apex Legends](https://img.shields.io/badge/🪂_Apex_Legends-DA292A?style=for-the-badge&logoColor=white)
 ![PUBG](https://img.shields.io/badge/🎮_PUBG_Battlegrounds-F2A900?style=for-the-badge&logoColor=black)
-![GTA](https://img.shields.io/badge/🚗_GTA-7ED321?style=for-the-badge&logoColor=black)
-![Cyberpunk 2077](https://img.shields.io/badge/🤖_Cyberpunk_2077-FCEE0A?style=for-the-badge&logoColor=black)
-![Sekiro](https://img.shields.io/badge/⚔️_Sekiro-8B0000?style=for-the-badge&logoColor=white)
-![ARK Survival](https://img.shields.io/badge/🦖_ARK_Survival-3E9C6F?style=for-the-badge&logoColor=white)
-![Wuthering Waves](https://img.shields.io/badge/🌊_Wuthering_Waves-00A8E8?style=for-the-badge&logoColor=white)
-![League of Legends](https://img.shields.io/badge/⚡_League_of_Legends-C89B3C?style=for-the-badge&logoColor=black)
-![RDR](https://img.shields.io/badge/🤠_Red_Dead_Redemption-A0522D?style=for-the-badge&logoColor=white)
-![Minecraft](https://img.shields.io/badge/⛏️_Minecraft-62B47A?style=for-the-badge&logoColor=black)
-![PEAK](https://img.shields.io/badge/🏔️_PEAK-5DADE2?style=for-the-badge&logoColor=white)
-![Rust](https://img.shields.io/badge/🪓_Rust-CE422B?style=for-the-badge&logoColor=white)
-![Project Zomboid](https://img.shields.io/badge/🧟_Project_Zomboid-B22222?style=for-the-badge&logoColor=white)
-![REPO](https://img.shields.io/badge/📦_REPO-9B59B6?style=for-the-badge&logoColor=white)
 
 </div>
 

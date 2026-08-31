@@ -74,6 +74,7 @@
 ![CS2](https://img.shields.io/badge/🔫_CS2-F5A623?style=for-the-badge&logoColor=black)
 ![Apex Legends](https://img.shields.io/badge/🪂_Apex_Legends-DA292A?style=for-the-badge&logoColor=white)
 ![PUBG](https://img.shields.io/badge/🎮_PUBG_Battlegrounds-F2A900?style=for-the-badge&logoColor=black)
+![Some Co-up Games With Friends](https://img.shields.io/badge/🎮_Some_Co_up_Games_With_Friends-26A69A?style=for-the-badge&logoColor=white)
 
 </div>
 
